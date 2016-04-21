@@ -1,0 +1,7 @@
+[package]
+name = "tinyrenderer"
+version = "0.1.0"
+authors = ["Samuel Vandamme <samuel@sava.be>"]
+
+[dependencies]
+image = "*"
